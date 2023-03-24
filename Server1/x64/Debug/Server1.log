@@ -1,0 +1,11 @@
+﻿  Connection.cpp
+C:\Users\halar\source\repos\Server1\Server1\Connection.cpp(34,24): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\halar\source\repos\Server1\Server1\Connection.cpp(72,27): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\halar\source\repos\Server1\Server1\Connection.cpp(87,23): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\halar\source\repos\Server1\Server1\Connection.cpp(221,24): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\halar\source\repos\Server1\Server1\Connection.cpp(235,27): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+  Server1.cpp
+C:\Users\halar\source\repos\Server1\Server1\Server1.cpp(41,39): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\halar\source\repos\Server1\x64\Debug\Server1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Server1.vcxproj -> C:\Users\halar\source\repos\Server1\x64\Debug\Server1.exe
